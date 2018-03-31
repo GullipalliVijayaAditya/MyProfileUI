@@ -93,11 +93,44 @@
         android:layout_marginBottom="8dp"
         android:layout_marginTop="8dp"
         android:padding="16dp"
-        android:text="The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers. You can do anything you decide to do. You can act to change and control your life; and the procedure, the process is its own reward."
+        android:text="Sunday, I am eating a
+grapefruit, church is over at the Russian
+Orthadox to the
+west.
+
+she is dark
+of Eastern descent,
+large brown eyes look up from the Bible
+then down. a small red and black
+Bible, and as she reads
+her legs keep moving, moving,
+she is doing a slow rythmic dance
+reading the Bible. . .
+
+long gold earrings;
+2 gold bracelets on each arm,
+and it's a mini-suit, I suppose,
+the cloth hugs her body,
+the lightest of tans is that cloth,
+she twists this way and that,
+long yellow legs warm in the sun. . .
+
+there is no escaping her being
+there is no desire to. . .
+
+my radio is playing symphonic music
+that she cannot hear
+but her movements coincide exactly
+to the rythms of the
+symphony. . .
+
+she is dark, she is dark
+she is reading about God.
+I am God. "
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/photo"
-        app:layout_constraintVertical_bias="0.23" />
+        app:layout_constraintVertical_bias="0.0" />
 </android.support.constraint.ConstraintLayout>
